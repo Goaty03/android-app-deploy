@@ -1,0 +1,12 @@
+APK Build triggered at 2026-05-14T10:13:06Z
+
+This file triggers the GitHub Actions pipeline to build your Android APK.
+The build will create both debug and release APK files.
+
+Build info:
+- Repository: android-app-deploy
+- Branch: main
+- Workflow: Android CI/CD Pipeline
+- Free GitHub Actions minutes used
+
+You can download the APK artifacts after the build completes!
